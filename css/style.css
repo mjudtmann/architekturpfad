@@ -6,7 +6,7 @@ body {
 }
 
 #map {
-  height: 45hw;
+  height: 45vh;
   width: 100vw;
   position: absolute;
   border-bottom: 3px solid orange;
