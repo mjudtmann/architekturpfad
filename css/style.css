@@ -16,9 +16,9 @@ body {
 
 #narration {
   position: absolute;
-  top: 203px;
+  top: 403px;
   width: 100vw;
-  height: calc(100vh - 203px);
+  height: calc(100vh - 403px);
   z-index: 80;
 }
 
